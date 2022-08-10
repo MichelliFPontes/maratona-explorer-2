@@ -1,7 +1,7 @@
-<h2>💻 Webpage</h2>
+<h2>☕️ Menu</h2>
 <h4>
-<p>Projeto desenvolvido durante o evento online "Maratona Explorer 2.0".</p>
-<p>Realizado pela Coding School Rocketseat em Junho/2022.</p>
+<p>Projeto desenvolvido durante o evento online "Maratona Explorer 3.0".</p>
+<p>Realizado pela Coding School Rocketseat em Agosto/2022.</p>
 </h4>
 
  🌻
